@@ -1,0 +1,6 @@
+module Pods_XCode_Releases {
+  umbrella header "Pods-XCode Releases-umbrella.h"
+
+  export *
+  module * { export * }
+}
