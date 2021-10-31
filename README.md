@@ -9,7 +9,7 @@
 ------
 Application for Xcode release history using [XcodeReleases](https://xcodereleases.com/) API
 
-<img src="/Screenshots/Application Icon.png" width="600" align=middle>
+<img src="/Images/allshots.png" width="700" align=middle>
 
 
 ### Social
